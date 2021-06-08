@@ -88,6 +88,9 @@
 #define HERO_Jiela                     8038      //婕拉
 #define HERO_Yasuo                     8039      //亚索
 
+
+#define 定位器等地区都去5    88888
+
 #include "AppDelegate.h"
 #include <string>
 #include <vector>
